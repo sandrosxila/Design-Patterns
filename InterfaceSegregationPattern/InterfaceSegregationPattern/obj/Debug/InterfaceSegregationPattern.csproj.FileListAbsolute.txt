@@ -1,0 +1,6 @@
+E:\Projects\Design-Patterns\InterfaceSegregationPattern\InterfaceSegregationPattern\bin\Debug\InterfaceSegregationPattern.exe
+E:\Projects\Design-Patterns\InterfaceSegregationPattern\InterfaceSegregationPattern\bin\Debug\InterfaceSegregationPattern.pdb
+E:\Projects\Design-Patterns\InterfaceSegregationPattern\InterfaceSegregationPattern\obj\Debug\InterfaceSegregationPattern.csprojAssemblyReference.cache
+E:\Projects\Design-Patterns\InterfaceSegregationPattern\InterfaceSegregationPattern\obj\Debug\InterfaceSegregationPattern.csproj.CoreCompileInputs.cache
+E:\Projects\Design-Patterns\InterfaceSegregationPattern\InterfaceSegregationPattern\obj\Debug\InterfaceSegregationPattern.exe
+E:\Projects\Design-Patterns\InterfaceSegregationPattern\InterfaceSegregationPattern\obj\Debug\InterfaceSegregationPattern.pdb
