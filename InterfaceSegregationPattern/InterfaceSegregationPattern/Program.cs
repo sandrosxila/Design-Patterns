@@ -73,14 +73,24 @@
 
     public struct MultiFunctionMachine : IMultiFunctionDevice
     {
+
+        private IPrint printer;
+        private IScan scanner;
+
+        public MultiFunctionMachine(IPrint printer, IScan scanner)
+        {
+            this.printer = printer;
+            this.scanner = scanner;
+        }
+
         public void Print(Document d)
         {
-            //works
+            printer.Print(d);
         }
 
         public void Scan(Document d)
         {
-            //works
+            scanner.Scan(d);
         }
     }
 
