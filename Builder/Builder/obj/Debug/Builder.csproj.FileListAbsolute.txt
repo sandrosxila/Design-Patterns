@@ -1,0 +1,6 @@
+E:\Projects\Design-Patterns\Builder\Builder\bin\Debug\Builder.exe
+E:\Projects\Design-Patterns\Builder\Builder\bin\Debug\Builder.pdb
+E:\Projects\Design-Patterns\Builder\Builder\obj\Debug\Builder.csprojAssemblyReference.cache
+E:\Projects\Design-Patterns\Builder\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+E:\Projects\Design-Patterns\Builder\Builder\obj\Debug\Builder.exe
+E:\Projects\Design-Patterns\Builder\Builder\obj\Debug\Builder.pdb

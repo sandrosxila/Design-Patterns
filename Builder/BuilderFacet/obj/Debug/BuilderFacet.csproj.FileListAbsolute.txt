@@ -1,0 +1,6 @@
+E:\Projects\Design-Patterns\Builder\BuilderFacet\bin\Debug\BuilderFacet.exe
+E:\Projects\Design-Patterns\Builder\BuilderFacet\bin\Debug\BuilderFacet.pdb
+E:\Projects\Design-Patterns\Builder\BuilderFacet\obj\Debug\BuilderFacet.csprojAssemblyReference.cache
+E:\Projects\Design-Patterns\Builder\BuilderFacet\obj\Debug\BuilderFacet.csproj.CoreCompileInputs.cache
+E:\Projects\Design-Patterns\Builder\BuilderFacet\obj\Debug\BuilderFacet.exe
+E:\Projects\Design-Patterns\Builder\BuilderFacet\obj\Debug\BuilderFacet.pdb
