@@ -28,7 +28,7 @@ namespace DependencyInversionPattern
         public void AddParentAndChild(Person parent, Person child)
         {
             relations.Add((parent,Relationship.Parent,child));
-            relations.Add((child,Relationship.Parent,parent));
+            relations.Add((child,Relationship.Child,parent));
         }
         
         //BEFORE

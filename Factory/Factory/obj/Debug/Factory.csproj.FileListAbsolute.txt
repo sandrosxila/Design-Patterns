@@ -1,0 +1,6 @@
+E:\Projects\Design-Patterns\Factory\Factory\bin\Debug\Factory.exe
+E:\Projects\Design-Patterns\Factory\Factory\bin\Debug\Factory.pdb
+E:\Projects\Design-Patterns\Factory\Factory\obj\Debug\Factory.csprojAssemblyReference.cache
+E:\Projects\Design-Patterns\Factory\Factory\obj\Debug\Factory.csproj.CoreCompileInputs.cache
+E:\Projects\Design-Patterns\Factory\Factory\obj\Debug\Factory.exe
+E:\Projects\Design-Patterns\Factory\Factory\obj\Debug\Factory.pdb
