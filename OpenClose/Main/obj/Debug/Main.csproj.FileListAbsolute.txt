@@ -1,6 +1,0 @@
-E:\Projects\Design-Patterns\OpenClose\Main\bin\Debug\Main.exe
-E:\Projects\Design-Patterns\OpenClose\Main\bin\Debug\Main.pdb
-E:\Projects\Design-Patterns\OpenClose\Main\obj\Debug\Main.csprojAssemblyReference.cache
-E:\Projects\Design-Patterns\OpenClose\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
-E:\Projects\Design-Patterns\OpenClose\Main\obj\Debug\Main.exe
-E:\Projects\Design-Patterns\OpenClose\Main\obj\Debug\Main.pdb
