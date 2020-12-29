@@ -1,6 +1,0 @@
-E:\Projects\Design-Patterns\DependencyInversionPattern\DependencyInversionPattern\obj\Debug\DependencyInversionPattern.csprojAssemblyReference.cache
-E:\Projects\Design-Patterns\DependencyInversionPattern\DependencyInversionPattern\obj\Debug\DependencyInversionPattern.csproj.CoreCompileInputs.cache
-E:\Projects\Design-Patterns\DependencyInversionPattern\DependencyInversionPattern\bin\Debug\DependencyInversionPattern.exe
-E:\Projects\Design-Patterns\DependencyInversionPattern\DependencyInversionPattern\bin\Debug\DependencyInversionPattern.pdb
-E:\Projects\Design-Patterns\DependencyInversionPattern\DependencyInversionPattern\obj\Debug\DependencyInversionPattern.exe
-E:\Projects\Design-Patterns\DependencyInversionPattern\DependencyInversionPattern\obj\Debug\DependencyInversionPattern.pdb
