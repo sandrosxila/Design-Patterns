@@ -1,6 +1,0 @@
-E:\Projects\Design-Patterns\LiskovSubstitution\LiskovSubstitution\bin\Debug\LiskovSubstitution.exe
-E:\Projects\Design-Patterns\LiskovSubstitution\LiskovSubstitution\bin\Debug\LiskovSubstitution.pdb
-E:\Projects\Design-Patterns\LiskovSubstitution\LiskovSubstitution\obj\Debug\LiskovSubstitution.csprojAssemblyReference.cache
-E:\Projects\Design-Patterns\LiskovSubstitution\LiskovSubstitution\obj\Debug\LiskovSubstitution.csproj.CoreCompileInputs.cache
-E:\Projects\Design-Patterns\LiskovSubstitution\LiskovSubstitution\obj\Debug\LiskovSubstitution.exe
-E:\Projects\Design-Patterns\LiskovSubstitution\LiskovSubstitution\obj\Debug\LiskovSubstitution.pdb
