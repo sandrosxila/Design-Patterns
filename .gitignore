@@ -1,4 +1,7 @@
 /*/.idea
+/*/packages
+/*/*.sln.DotSettings.user
+/*/*/packages.config
 /*/*/bin
 /*/*/obj
 /*/*/Properties
