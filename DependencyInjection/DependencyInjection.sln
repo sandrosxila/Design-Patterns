@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjection", "DependencyInjection\DependencyInjection.csproj", "{B31A5AFD-B9A3-4DD1-BBAE-0F12D2B75B6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjectionAutoFac", "DependencyInjectionAutoFac\DependencyInjectionAutoFac.csproj", "{31C8C3F4-29F8-41F9-A80A-15306E8C02AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B31A5AFD-B9A3-4DD1-BBAE-0F12D2B75B6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B31A5AFD-B9A3-4DD1-BBAE-0F12D2B75B6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B31A5AFD-B9A3-4DD1-BBAE-0F12D2B75B6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B31A5AFD-B9A3-4DD1-BBAE-0F12D2B75B6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31C8C3F4-29F8-41F9-A80A-15306E8C02AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31C8C3F4-29F8-41F9-A80A-15306E8C02AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31C8C3F4-29F8-41F9-A80A-15306E8C02AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31C8C3F4-29F8-41F9-A80A-15306E8C02AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
