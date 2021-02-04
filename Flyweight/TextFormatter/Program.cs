@@ -118,9 +118,7 @@ namespace TextFormatter
             for (int i = index; i < ranges.Count; i++)
             {
                 if (ranges[i].start > end || ranges[i].end < start)
-                {
                     break;
-                }
 
                 if (ranges[i].end < end)
                 {
