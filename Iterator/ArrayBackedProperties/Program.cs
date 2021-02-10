@@ -12,17 +12,19 @@ namespace ArrayBackedProperties
         private const int strength = 0;
         private const int agility = 1;
         private const int intelligence = 2;
-        
+
         public int Strength
         {
             get => stats[strength];
             set => stats[strength] = value;
         }
+
         public int Agility
         {
             get => stats[agility];
             set => stats[agility] = value;
         }
+
         public int Intelligence
         {
             get => stats[intelligence];
@@ -48,6 +50,7 @@ namespace ArrayBackedProperties
             set => stats[index] = value;
         }
     }
+
     internal class Program
     {
         public static void Main(string[] args)
