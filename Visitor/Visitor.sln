@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visitor", "Visitor\Visitor.csproj", "{1C5A19B3-543C-4321-9756-43D610633BB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicVisitor", "DynamicVisitor\DynamicVisitor.csproj", "{66050513-1873-4640-8C40-14EB25071445}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcyclicVisitor", "AcyclicVisitor\AcyclicVisitor.csproj", "{3DD94FB7-BD99-4E5E-9C9E-B1FF706D8C41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C5A19B3-543C-4321-9756-43D610633BB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C5A19B3-543C-4321-9756-43D610633BB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C5A19B3-543C-4321-9756-43D610633BB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C5A19B3-543C-4321-9756-43D610633BB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66050513-1873-4640-8C40-14EB25071445}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66050513-1873-4640-8C40-14EB25071445}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66050513-1873-4640-8C40-14EB25071445}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66050513-1873-4640-8C40-14EB25071445}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DD94FB7-BD99-4E5E-9C9E-B1FF706D8C41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DD94FB7-BD99-4E5E-9C9E-B1FF706D8C41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DD94FB7-BD99-4E5E-9C9E-B1FF706D8C41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DD94FB7-BD99-4E5E-9C9E-B1FF706D8C41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
